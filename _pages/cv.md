@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[download pdf](files/Uyseok_Lee_CV.pdf)
+[download pdf](/files/Uyseok_Lee_CV.pdf)
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
