@@ -10,7 +10,7 @@ redirect_from:
 
 This is the front page of Uyseok Lee's [personal website](https://uyseoklee.github.io/) that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. 
 
-#Section 1
+%Section 1
 #======
 #Content
 
