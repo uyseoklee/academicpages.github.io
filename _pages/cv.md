@@ -9,52 +9,28 @@ redirect_from:
 
 {% include base_path %}
 [download pdf](/files/Uyseok_Lee_CV.pdf)
------
 
 Education
 ======
 * M.A. in Economics, University of British Columbia, 2018
 * B.I.E. (Bachelor of International Economics), University of British Columbia, 2017
 
-Work experience
+Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant - University of British Columbia, 2018 - ongoing
+  * Faculty: Prof. Siwan Anderson
+  * Fields: Development
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Assistant - University of British Columbia, 2014 - 2016 
+  * Faculty: Prof. Joshua D. Gottlieb
+  * Fields: Health, Political Economy
+  
+Teaching Experience
+======
+ * Teaching Assistant - University of British Columbia
+   * ECON 101 - Principles of Microeconomics 2017, 2018
+   * ECON 102 - Principles of Macroeconomics 2017
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Stata, QGIS, Python, Latex
