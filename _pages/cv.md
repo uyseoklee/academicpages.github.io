@@ -13,9 +13,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.A. in Economics, University of British Columbia, 2018
+* B.I.E. (Bachelor of International Economics), University of British Columbia, 2017
 
 Work experience
 ======
