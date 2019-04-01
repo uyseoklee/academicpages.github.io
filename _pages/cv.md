@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 [download pdf](/files/Uyseok_Lee_CV.pdf)
+-----
 
 Education
 ======
