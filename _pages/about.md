@@ -8,21 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of Uyseok Lee's [personal website](https://uyseoklee.github.io/) that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. 
+Welcome to my [personal website](https://uyseoklee.github.io/). I am a research assistant at UBC and an incomming pre-doctoral fellow at SIEPR (July 2019).  
 
-%Section 1
-#======
-#Content
-
-#Subsection 1
-#------
-#Text
-
-#**Sub-subsection**
-#Text
-
-#Image example
-#------
-#Example: editing a markdown file for a talk
-#![Editing a markdown file for a talk](/images/editing-talk.png)
 
