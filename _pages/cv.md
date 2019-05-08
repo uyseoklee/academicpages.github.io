@@ -12,7 +12,9 @@ redirect_from:
 
 ## Education
 * M.A. in Economics, University of British Columbia, 2018
+  + Thesis: *An Empirical Examination of the Immigrant-Native Wage Gap - Evidence from the Labor Force Survey*
 * B.I.E. (Bachelor of International Economics), University of British Columbia, 2017
+  + Thesis: *Is Money Always the Answer? Examining the Effects of the Determinants of Income on Income Inequality*
 
 ## Research Experience
 * Research Assistant - University of British Columbia, 2018 - ongoing
