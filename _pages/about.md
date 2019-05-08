@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my [personal website](https://uyseoklee.github.io/). I am a research assistant at UBC and an incomming pre-doctoral fellow at SIEPR (July 2019).  
+Welcome to my [personal website](https://uyseoklee.github.io/). I am a research assistant at UBC and an incomming pre-doctoral fellow at [SIEPR](https://siepr.stanford.edu/people/predoctoral-researchers) (July 2019).  
 
 
