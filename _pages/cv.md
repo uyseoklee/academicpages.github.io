@@ -20,7 +20,7 @@ redirect_from:
 ## Research Experience
 * Pre-Doctoral Research Fellow - Stanford Institute for Economic Policy Research, 2019 - ongoing
   * Faculty: Prof. David Chan, Prof. Matthew Gentzkow
-  * Fields: Health, Machine Learning
+  * Fields: Health, Applied Micro
   
 * Research Assistant - University of British Columbia, 2018 - 2019
   * Faculty: Prof. Siwan Anderson
