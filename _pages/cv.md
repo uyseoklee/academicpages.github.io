@@ -8,27 +8,32 @@ redirect_from:
 ---
 
 {% include base_path %}
-[download pdf](/files/Uyseok_Lee_CV.pdf)
+[download pdf](/files/CV_Uyseok_Lee.pdf)
 
 ## Education
-* Non-matriculated Graduate Student, Stanford University , 2019 - ongoing
 * M.A. in Economics, University of British Columbia, 2018
   + Thesis: *An Empirical Examination of the Immigrant-Native Wage Gap - Evidence from the Labor Force Survey*
 * B.I.E. (Bachelor of International Economics), University of British Columbia, 2017
   + Thesis: *Is Money Always the Answer? Examining the Effects of the Determinants of Income on Income Inequality*
 
 ## Research Experience
+#### Stanford University
 * Pre-Doctoral Research Fellow - Stanford Institute for Economic Policy Research, 2019 - ongoing
   * Faculty: Prof. David Chan, Prof. Matthew Gentzkow
   * Fields: Health, Applied Micro
-  
-* Research Assistant - University of British Columbia, 2018 - 2019
+
+#### University of British Columbia  
+* Research Assistant - Vancouver School of Economics, 2018 - 2019
   * Faculty: Prof. Siwan Anderson
   * Fields: Development
 
-* Research Assistant - University of British Columbia, 2014 - 2016 
+* Research Assistant - Vancouver School of Economics, 2014 - 2016 
   * Faculty: Prof. Joshua D. Gottlieb
   * Fields: Health, Political Economy
+
+* Research Intern - Sauder School of Business 
+  * Faculty: Prof. Carolin E. Pflueger, 2015
+  * Fields: Finance
   
 ## Teaching Experience
  * Teaching Assistant - University of British Columbia
@@ -36,4 +41,9 @@ redirect_from:
    * ECON 102 - Principles of Macroeconomics 2017
   
 ## Skills
-* Stata, QGIS, Python, Latex
+* SQL, Stata, & R for data management and analysis
+* QGIS & Python for geospatial data
+* LaTex & LyX for typesetting
+
+## Languages
+* English, Korean, French
